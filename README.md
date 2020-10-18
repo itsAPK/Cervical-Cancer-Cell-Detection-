@@ -2,6 +2,9 @@
 Project : Cervical Cancer Cell Detection using Image Processing and MATLAB
 
 
+<img src="https://images.medicinenet.com/images/article/main_image/cancer-cells-1.jpg"></img>
+
+
 # INTRODUCTION 
 
 Cervical cancer growth in women is a standout amongst the most widely recognized tumors around the world, next just to bosom disease. Moderately aged ladies between the ages of 40-55 years are for the most part influenced by this malignancy. Consistently cervical is analyzed in around 500,000 ladies comprehensively and is in charge of in excess of 280,000 deaths yearly. These days there is a wide variety in the quantity of cervical malignancy cases over the globe. Hazard factors incorporate smoking, unprotected sex or having HIV disease, delayed utilization of anti-conception medication pills. In the western side, pervasiveness of this illness is steadily diminishing a result of the early identification through customary screening. 80% of the new cervical malignant growth cases happen in creating nations, similar to India, which reports around 1/4th of the world's instances of cervical disease every year. 
